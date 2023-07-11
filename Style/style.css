@@ -1,3 +1,6 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
 .banner{
     display: flex;
     background: #e554731a;
@@ -101,15 +104,23 @@ text-decoration-line: underline;
     width: 1440px;
     height: 320px;
     border-radius: 8px;
-background: rgba(39, 39, 39, 0.05);
-display: flex;
-justify-content: space-around;
-margin-top: 150px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    align-item:center;
+    justify-content: center;
+    gap: 20px;
 }
-.man-icon1{
-margin-left: 25%;
+.man-cont{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
 }
-
 
 
 
@@ -159,8 +170,9 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 }
-.instraone{
-    
+.ins-img{
+border-radius: 20px;
+
 }
 
 
@@ -223,3 +235,26 @@ background: #111010;
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
 }
+.primary-btn1{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: azure;
+    border: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
