@@ -1,0 +1,225 @@
+.banner{
+    display: flex;
+    background: #e554731a;
+}
+.banner-title{
+    display: flex;
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-left: 240px;
+    margin-top: 197px;
+}
+.banner-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 634px;
+    margin-left: 240px;
+  
+    
+}
+.primary-btn{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: azure;
+    margin-left: 240px;
+    border: 0px;
+}
+.banner-image{
+    width: 635px;
+    height: 850px;
+    align-content: center;
+    
+}
+
+
+.main-hadding{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 196px;
+}
+.p{
+    text-align: center;
+width: 594px;
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.gol-gol1{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.gol-gol2{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.gol-gol3{
+    width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.gool-gool{
+    display: flex;
+    gap: 14px;
+    text-align: center;
+    justify-content: space-around;
+}
+.g-g-h{
+    color: #272727;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+
+}
+.main-ggg{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+.man-icon{
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+display: flex;
+justify-content: space-around;
+margin-top: 150px;
+}
+.man-icon1{
+margin-left: 25%;
+}
+
+
+
+
+
+.off{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content: space-around;
+height: 620px;
+margin-top: 150px;
+
+}
+.hot{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-top: 230px;
+
+}
+.hot-para{
+    
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+
+
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+
+
+
+.instra{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.instraone{
+    
+}
+
+
+
+.bg-img{
+    width: 1440px;
+    height: 490px;
+    background-image: url("../Background-immage/Rectangle-9.png") ;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    background-size: auto;
+    text-align: center;
+    padding-top: 125px;
+    margin-top: 180px;
+    }
+
+.bg-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.bg-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 15px;
+}
+input {
+    width: 700px;
+    height: 64px;
+    border-radius: 7px;
+    gap: 0px;
+  }
+  
+
+.footer{
+height: 400px;
+background: #111010;
+}
+.f-f{
+    color: #E55473;
+    font-weight: 800;
+    padding-top: 150px;
+    text-align: center;
+}
+.foot-text{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+}
